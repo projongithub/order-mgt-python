@@ -6,7 +6,7 @@ Requirements:
   - Windows OS
   - Google Colab / Internet Browser
   - Python version 3.8
-  - .jpg images of items to be used in the project
+  - 'jpg Images' of items to be used in the project
   
 Libraries:
   - Matplotlib
