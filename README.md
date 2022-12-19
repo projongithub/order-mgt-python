@@ -1,16 +1,19 @@
 # order-mgt-python
 
-Brief Description: Beginner Python Order management project using Google Colab that includes features like transactions and purchases.
+Brief Description: Beginner Python Order management project using Google Colab that includes features like querying item details, adding/update/delete items to/from shopping cart and displaying Invoice/items to be shipped etc.
 
 Requirements:
   - Windows OS
   - Google Colab / Internet Browser
-  - Python version 3.0
+  - Python version 3.8
+  - .jpg images of items to be used in the project
   
 Libraries:
   - Matplotlib
   - numpy
   - datetime
+  - google.colab
+  - time
   
 Detailed Descrption:
 
